@@ -1,1 +1,1 @@
-web:node src/flask run
+web: gunicorn app:app
