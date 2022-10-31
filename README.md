@@ -1,5 +1,4 @@
 # Weather
-#### Video Demo:  <https://youtu.be/qi8QRpSz-oM>
 #### Description:
 
 # CS50 Final Project - Weather
