@@ -3,4 +3,5 @@ Flask
 Flask-Session
 requests
 functools
-werkzeug ==
+werkzeug 
+gunicorn
