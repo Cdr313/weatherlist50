@@ -1,1 +1,1 @@
-web: node ./app.py
+web:node src/flask run
