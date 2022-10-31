@@ -1,0 +1,118 @@
+body{
+    background-color:  #273746 ;
+    color:white;
+}
+
+/*.nh:hover
+{
+    color: red;
+    border-bottom:1px solid red;
+}*/
+
+
+/* Size for brand */
+
+
+
+.navbar{
+  height: 80px;
+  border: #273746;
+}
+
+nav.navbar{
+    background-color: #E5E7E9 ;
+}
+
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+
+nav .navbar-brand .red
+{
+    color: red
+    !important;
+}
+
+#link{
+  color: #ea433b;
+}
+
+#link:hover{
+  color:red;
+}
+
+.table{
+    width:75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.form{
+  width: 20rem;
+  display: flex;
+  align-items: center;
+
+}
+
+
+/* FOR BOX */
+  .active {
+    color: white;
+    text-decoration: none;
+    opacity: 1;
+  }
+
+  #wrapper {
+    background-color: #071423 ;
+    /* box-shadow: 1px 5px 25px 3px #444;*/
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    /**/
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 850px;
+    padding: 0px;
+    color: white;
+  }
+
+
+  #current-weather{
+    padding: 15px;
+  }
+
+  #mainTemperature{
+    font-size: 3em;
+    line-height: 0.7;
+  }
+
+  #tempDescription {
+    margin-top: 10px;
+    text-align: center;
+    color: #ea433b;
+  }
+
+
+  .side-weather-info {
+    padding: 0px 10px;
+  }
+
+
+/*all css for contact */
+
+.form-select
+{
+  width:40%;
+  color :#36454F;
+  font-family: Trebuchet;
+  font-size:20px;
+
+}
+.type
+{
+  margin : 12px;
+  size :100px;
+  color :white;
+  font-size : 20px;
+}
