@@ -30,8 +30,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbar">
                     {% if session["user_id"] %}
-                        <form class="d-flex ms-5" method="post" action="/add_city">
-                            <input class="form-control me-2 form add city_name" type="text" placeholder="City name" aria-label="Search" name="city_name" autocomplete="off">
+                        <form class="d-flex ms-5 city_name" method="post" action="/add_city">
+                            <input class="form-control me-2 form" type="text" placeholder="City name" aria-label="Search" name="city_name" autocomplete="off">
                             <button class="btn btn-warning" type="submit">Add</button>
                         </form>
                         <ul class="navbar-nav ms-auto mt-2">
