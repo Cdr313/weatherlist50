@@ -15,7 +15,7 @@ body{
 
 
 .navbar{
-  height: 80px;
+  height: auto;
   border: #273746;
 }
 
