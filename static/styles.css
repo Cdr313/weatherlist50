@@ -50,7 +50,7 @@ nav .navbar-brand .red
 }
 
 
-#city_name{
+.city_name{
   width: auto;
   display: flex;
   align-items: center;
